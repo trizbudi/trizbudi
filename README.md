@@ -1,16 +1,13 @@
-### Hi there 👋
+###  Boas vindas ao meu perfil
 
-<!--
-**trizbudi/trizbudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Beatriz Budniak  💤
+- Meus pronomes são ela-dela
+- Estou me desenvolvendo na línguagem JavaScript
+-  Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+-  Sou estudante do Alura
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para você entrar em conato comigo
+
+
+- beatriz.budniak@escola.pr.gov.br
